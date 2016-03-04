@@ -1,6 +1,6 @@
 package Lab1;
 
-//custom exception
+//handling custom exceptions
 public class InvalidTestScore extends Exception {
 	
 	public InvalidTestScore(){
